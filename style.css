@@ -20,7 +20,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #111;
+  background: #1302fa;
   color: #fff;
   transition: 0.5s;
   z-index: 2;
@@ -118,7 +118,7 @@
   background: #fff;
   padding: 10px 30px;
   text-decoration: none;
-  color: #111;
+  color: #1302fa;
   margin-top: 10px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -173,7 +173,7 @@
 .menu ul li a {
   text-decoration: none;
   font-size: 24px;
-  color: #111;
+  color: #1302fa;
 }
 
 .menu ul li a:hover {
